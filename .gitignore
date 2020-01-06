@@ -1,0 +1,16 @@
+# eclipse
+*/bin/
+*.classpath
+*.class
+/Debug/
+/Release/
+*.dbeaver-data-sources.xml
+
+# latex
+*.aux
+*.log
+*.synctex.gz
+*.out
+*.toc
+*.fls
+*.fdb_latexmk

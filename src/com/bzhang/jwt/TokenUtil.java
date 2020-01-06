@@ -1,4 +1,4 @@
-package com.dineshkrish.jwt;
+package com.bzhang.jwt;
 
 import java.io.UnsupportedEncodingException;
 
